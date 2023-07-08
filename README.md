@@ -33,7 +33,7 @@
  
  <h3>Back-end</h3>
  <ul>
-    <li><img  width="24px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054552190854901780/java.png" />  Java</li>
+     <li><img  width="24px" src="https://i.imgur.com/5HiFsW7.png" />  Typescript</li>
     <li><img  width="24px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054552558745694228/mysql.png" />  MySQL</li>
     <li><img  width="24px" src="https://i.imgur.com/vvwVa87.png"/> Node</li>
  </ul>
